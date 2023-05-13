@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,13,2,5,30&height=200&section=header&text=Welcome,%20I'm%20Soyeon%20Park&fontSize=50&animation=twinkling&fontAlignY=40)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssoyeee&count_bg=%23AAC2D7&title_bg=%23426A8C&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssoyeee&count_bg=%23AAC2D7&title_bg=%23426A8C&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soyeon%20Park-blue)](https://www.linkedin.com/in/soyeon-park-dev/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/soyeondev?style=social)](https://twitter.com/SoyeonDev)
 
