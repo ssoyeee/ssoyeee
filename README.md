@@ -10,7 +10,7 @@
 - ⚙️ I'm currently working on [Laughtoonflix](https://github.com/ssoyeee/laughtoonflix) and [Hitube](https://github.com/ssoyeee/hitube)
 - 👩‍💻 I'm currently studying **React, Flutter**
 - 🔫 Fun fact: **I love LIGHT theme**
-- 📫 Let's talk! **soyeon.park.dev@gmail.com** / ** **
+- 📫 Let's talk! **soyeon.park.dev@gmail.com** / **https://ssoyeee.github.io/**
 
 
 ## Languages and Tools I've experienced
